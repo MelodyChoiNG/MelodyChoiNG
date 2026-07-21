@@ -17,6 +17,17 @@ Aspiring **Data Analytics Engineer (DAE)**
 
 ---
 
+## 🎬 Introduction Video
+
+<!-- YOUR_VIDEO_ID 부분을 유튜브 영상 ID로 변경하세요 -->
+<a href="https://www.youtube.com/watch?v=oapTc5VmFFc" target="_blank">
+  <img src="https://img.youtube.com/vi/oapTc5VmFFc/0.jpg" width="60%" alt="YouTube Video">
+</a>
+
+<br>
+
+---
+
 ## 🏆 Competitions
 
 | Year | Competition | Category / Details | Result |
